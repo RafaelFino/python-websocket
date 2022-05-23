@@ -1,0 +1,8 @@
+websockets
+rel
+websocket-client
+websocket-client[optional]
+flask
+flask-socketio
+eventlet
+gunicorn
